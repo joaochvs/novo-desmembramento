@@ -10,3 +10,6 @@ torch
 transformers
 safetensors
 streamlit
+torch
+torchvision
+transformers
