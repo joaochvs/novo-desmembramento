@@ -1,0 +1,12 @@
+pandas
+openpyxl
+requests
+Pillow
+imagehash
+scikit-learn
+numpy
+opencv-python-headless
+torch
+transformers
+safetensors
+streamlit
